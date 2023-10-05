@@ -9,3 +9,5 @@ This project aimed to develop an intelligent system that would play a Bomberman 
  - Copy the txt file that only has numbers in the name. This file is the game history
  - Place the txt file in the ./project/Interface/ folder and rename it to Jogo.txt
  - Run the Interface executable to preview the game
+
+https://youtu.be/rd6K_gRuNxk
